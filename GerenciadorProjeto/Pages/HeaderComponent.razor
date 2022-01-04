@@ -1,0 +1,34 @@
+﻿<header>
+ <h1>My header</h1>
+</header>
+
+<h1>My count: @contador</h1>
+<span class="text-danger ">Nome: @nome</span>
+<input class="form-control col-6" @bind="@nome" />
+<br/>
+<span class="text-danger"> Idade: @idade</span>
+<br />
+<input  class="form-control" @bind="@idade" />
+
+
+<button class="btn btn-primary" @onclick="incrementador" style="font-size: 11pt;
+    border-radius: 20px;
+    margin: 10px;" >+</button>
+@code {
+
+    private int contador = 0;
+    private string nome = "sem nome";
+    private int idade = 0;
+
+    public void incrementador()
+    {
+        contador++;
+    }
+
+    class pessoa
+    {
+       public string nome { get; set; }
+       public int idade { get; set; }
+    }
+
+}

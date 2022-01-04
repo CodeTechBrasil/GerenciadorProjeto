@@ -1,0 +1,51 @@
+﻿
+<button @onclick="CarregarLista">Carregar</button>
+
+      <div class="row col-12">
+
+@foreach (var item in projetos)
+{
+   <div class="col-3 p-1" style="
+    vertical-align:middle;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    margin-top: 11px;
+    border-radius: 0px 31px 0px 26px;
+    background-color: white;
+    box-shadow: 0 0 1em #7e7d76;
+">
+  <h5 style="text-align:center;    margin-top: 32%; padding:10px;" >@item uitr</h5>
+</div>
+    
+}</div>
+
+<div class="card-project">
+</div>
+
+
+@code {
+    List<string> projetos = new List<string>();
+        
+    protected override void OnInitialized()
+    {
+        projetos.Add("CARTOGRAFIA");
+        projetos.Add("DESENVOLVIMENTO");
+        projetos.Add("SUPORTE");
+        projetos.Add("4");
+        projetos.Add("5");
+        projetos.Add("6");
+        projetos.Add("7");
+        projetos.Add("8");
+        projetos.Add("9");
+      
+    }
+
+    public void CarregarLista()
+    {
+        projetos.Clear();
+    }
+
+    
+
+}
