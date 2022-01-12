@@ -13,70 +13,70 @@ namespace GerenciadorProjeto.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 1 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 2 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 3 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 4 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 5 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 6 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 7 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 8 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 9 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using GerenciadorProjeto;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\_LAB\Blazor\GerenciadorProjeto\_Imports.razor"
+#line 10 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\_Imports.razor"
 using GerenciadorProjeto.Shared;
 
 #line default
@@ -91,7 +91,7 @@ using GerenciadorProjeto.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "C:\_LAB\Blazor\GerenciadorProjeto\Pages\Counter.razor"
+#line 9 "C:\_LAB\Web\GerenciadorProjeto\GerenciadorProjeto\Pages\Counter.razor"
        
     private int currentCount = 0;
 

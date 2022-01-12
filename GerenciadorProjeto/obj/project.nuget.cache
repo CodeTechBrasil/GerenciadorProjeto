@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Am/K0QB61OXi6qZofQ0IY8eLdpndyre5KScHGMLI5Kak6bkcGJuRLNcsEhl7OQ8xLHbS0pMy6dKtigIp/q81w==",
+  "dgSpecHash": "LlxEw2+sUDicVMoX65l/h37e4cLeChnIu3mI4DHz3UK7d7WYKYzLjlLxXpRhmtAibR0QZsNqEit41fzabkpIPg==",
   "success": true,
-  "projectFilePath": "C:\\_LAB\\Blazor\\GerenciadorProjeto\\GerenciadorProjeto.csproj",
+  "projectFilePath": "C:\\_LAB\\Web\\GerenciadorProjeto\\GerenciadorProjeto\\GerenciadorProjeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wcogeo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.12\\microsoft.aspnetcore.authorization.5.0.12.nupkg.sha512",
     "C:\\Users\\wcogeo\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.12\\microsoft.aspnetcore.components.5.0.12.nupkg.sha512",

@@ -1152,11 +1152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_LAB\\Blazor\\GerenciadorProjeto\\GerenciadorProjeto.csproj",
+      "projectUniqueName": "C:\\_LAB\\Web\\GerenciadorProjeto\\GerenciadorProjeto\\GerenciadorProjeto.csproj",
       "projectName": "GerenciadorProjeto",
-      "projectPath": "C:\\_LAB\\Blazor\\GerenciadorProjeto\\GerenciadorProjeto.csproj",
+      "projectPath": "C:\\_LAB\\Web\\GerenciadorProjeto\\GerenciadorProjeto\\GerenciadorProjeto.csproj",
       "packagesPath": "C:\\Users\\wcogeo\\.nuget\\packages\\",
-      "outputPath": "C:\\_LAB\\Blazor\\GerenciadorProjeto\\obj\\",
+      "outputPath": "C:\\_LAB\\Web\\GerenciadorProjeto\\GerenciadorProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
